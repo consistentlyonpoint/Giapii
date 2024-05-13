@@ -1,4 +1,4 @@
-# giappi-k12
+# GIAPI k12
 ## Guidelines for Individualized Academic Planning and ITS Implementation for K-12 Students: a Resource Guide
 
 https://giappi-k12.b4a.app/
