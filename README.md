@@ -1,4 +1,6 @@
-# GIAPII k12
+# GIAPII k12 
+<img src="(https://github.com/consistentlyonpoint/Giapii/assets/108585008/bed3383a-5622-49ab-b83d-52307a59cdac)" width="500" height="250" alt="Giappii Logo">
+
 ## Guidelines for Individualized Academic Planning and ITS Implementation for K-12 Students: a Resource Guide
 
 https://giappi-k12.b4a.app/
