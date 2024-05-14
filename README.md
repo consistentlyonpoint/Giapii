@@ -4,7 +4,9 @@
 ## Guidelines for Individualized Academic Planning and ITS Implementation for K-12 Students: a Resource Guide
 
 project site: https://giappi-k12.b4a.app/
-project presentation: https://youtu.be/ZdUAIpqWadE
+
+![Giappi Overview & Project Description](https://img.youtube.com/vi/ZdUAIpqWadE/0.jpg) (https://youtu.be/ZdUAIpqWadE)
+![Giappi Overview & Project Description](https://img.youtube.com/vi/ZdUAIpqWadE/0.jpg) (https://www.youtube.com/watch?v=dQw4w9WgXcQ(https://www.youtube.com/watch?v=ZdUAIpqWadE))
 
 ## A Guide for Planning an Individualized Academic Curriculum.
 * This resource provides a set of guidelines to individualize a student’s education plan.
