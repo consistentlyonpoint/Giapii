@@ -1,0 +1,112 @@
+[
+    {
+        "course": "Math",
+        "domain": "Math",
+        "seq_no": 1
+    },
+    {
+        "course": "Algebra 1",
+        "domain": "Math",
+        "seq_no": 2
+    },
+    {
+        "course": "Geometry",
+        "domain": "Math",
+        "seq_no": 3
+    },
+    {
+        "course": "Algebra 2",
+        "domain": "Math",
+        "seq_no": 4
+    },
+    {
+        "course": "Trigonometry",
+        "domain": "Math",
+        "seq_no": 5
+    },
+    {
+        "course": "Precalculus",
+        "domain": "Math",
+        "seq_no": 6
+    },
+    {
+        "course": "Calculus",
+        "domain": "Math",
+        "seq_no": 7
+    },
+    {
+        "course": "Language Arts",
+        "domain": "ELA",
+        "seq_no": 8
+    },
+    {
+        "course": "Reading",
+        "domain": "ELA",
+        "seq_no": 9
+    },
+    {
+        "course": "Reading",
+        "domain": "English",
+        "seq_no": 10
+    },
+    {
+        "course": "Reading",
+        "domain": "Reading",
+        "seq_no": 11
+    },
+    {
+        "course": "Language Arts",
+        "domain": "English",
+        "seq_no": 12
+    },
+    {
+        "course": "Science",
+        "domain": "Science",
+        "seq_no": 13
+    },
+    {
+        "course": "Earth Science",
+        "domain": "Science",
+        "seq_no": 14
+    },
+    {
+        "course": "Biology",
+        "domain": "Science",
+        "seq_no": 15
+    },
+    {
+        "course": "Chemistry",
+        "domain": "Science",
+        "seq_no": 16
+    },
+    {
+        "course": "Physics",
+        "domain": "Science",
+        "seq_no": 17
+    },
+    {
+        "course": "Social Studies",
+        "domain": "History",
+        "seq_no": 18
+    },
+    {
+        "course": "World History",
+        "domain": "History",
+        "seq_no": 19
+    },
+    {
+        "course": "European History",
+        "domain": "History",
+        "seq_no": 20
+    },
+    {
+        "course": "American History I",
+        "domain": "History",
+        "seq_no": 21
+    },
+    {
+        "course": "American History II",
+        "domain": "History",
+        "seq_no": 22
+    }
+]

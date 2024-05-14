@@ -1,0 +1,184 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+	<!-- back4app built-in -->
+	<script type="text/javascript" src="https://npmcdn.com/parse/dist/parse.min.js"></script>
+	<script type="application/javascript" src="credentials.js"></script>
+	<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.4.1/jquery.min.js">
+    </script>
+<!-- 	<script src="https://ajax.googleapis.com/ajax/libs/jquery/2.1.1/jquery.min.js"></script>
+	<script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.5/js/bootstrap.min.js"></script> -->
+	<!-- <link href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.5/css/bootstrap.min.css" rel="stylesheet" /> -->
+
+    <!-- Required meta tags always come first -->
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+    <meta http-equiv="x-ua-compatible" content="ie=edge">
+
+    <!-- Bootstrap CSS -->
+    <link rel="stylesheet" href="css/bootstrap.min.css">
+    <link href="https://fonts.googleapis.com/css?family=Montserrat:400,700" rel="stylesheet">
+    <link href="https://fonts.googleapis.com/css?family=Open+Sans:400,600,700" rel="stylesheet">
+    <link rel="stylesheet" href="css/ionicons.min.css">
+    <link rel="stylesheet" href="css/owl.carousel.css">
+    <link rel="stylesheet" href="css/owl.theme.css">
+    <link rel="stylesheet" href="css/style.css">
+	
+	<style>
+        table {
+            font-family: arial, sans-serif;
+            border-collapse: collapse;
+            width: 50%;
+        }
+          
+        td,
+        th {
+            border: 1px solid #dddddd;
+            text-align: left;
+            padding: 8px;
+        }
+          
+        h1 {
+            color: green;
+        }
+    </style>
+	
+	</head>
+	
+	<body>
+		<center>
+        <h1>GeeksforGeeks</h1>
+        <h3>
+          perform a real time search and filter 
+          on a HTML table
+        </h3>
+        <b>Search the table for Course, Fees or Type: 
+          <input id="gfg" type="text" 
+                 placeholder="Search here">
+        </b>
+        <br>
+        <br>
+        <table>
+            <tr>
+                <th>Course</th>
+                <th>Duration</th>
+                <th>Type</th>
+            </tr>
+            <tbody id="geeks">
+                <tr>
+                    <td>C++ STL</td>
+                    <td>1499</td>
+                    <td>Online Classes
+                    </td>
+                </tr>
+                <tr>
+                    <td>DSA Foundation</td>
+                    <td>7999</td>
+                    <td>Regular Classes</td>
+                </tr>
+                <tr>
+                    <td>Geeks Classes</td>
+                    <td>10799</td>
+                    <td>Weekend Classes</td>
+                </tr>
+                <tr>
+                    <td>Placement 100</td>
+                    <td>9999</td>
+                    <td>Online Classes</td>
+                </tr>
+            </tbody>
+        </table>
+  
+        <script>
+            $(document).ready(function() {
+                $("#gfg").on("keyup", function() {
+                    var value = $(this).val().toLowerCase();
+                    $("#geeks tr").filter(function() {
+                        $(this).toggle($(this).text()
+                        .toLowerCase().indexOf(value) > -1)
+                    });
+                });
+            });
+        </script>
+  </center>
+	
+    <footer class="padding-top-30">
+      <div class="container">
+        <div class="row">
+          <div class="col-md-3">
+            <div class="footer-left-content">
+              <div class="logo-colored">
+				<a class="navbar-brand" href="index.html">
+                <img src="images/GIAPII-K12_logo_v3_2.png" alt=""></a>GIAPII-K12
+              </div>              
+			  <div class="content">
+				<!-- <p class="margin-top-30">For parents, tutors, teachers & students to provide: -->
+				<!-- <br><span style=padding-left:30px;>(1) a background on IEP history and usage.									</span> -->
+				<!-- <br><span style=padding-left:30px;>(2) guidelines for planning a student’s curriculum with ITS(s) implemented.	</span> -->
+				<!-- <br><span style=padding-left:30px;>(3) a repository and search tool for commercially available ITS.		        </span></p> -->
+				<p class="margin-top-30 margin-bottom-30">Guidelines for Individualized Academic Curriculum and ITS 
+				Implementation  for K-12 Students: a Resource Guide (GIAPII-K12)</p>
+                <p>example@mail.com.</p>
+              </div>
+            </div>
+          </div>
+          <div class="col-md-9">
+            <div class="row">
+              <div class="col-md-3 col-sm-6">
+                <div class="footer-list-wiget">
+                  <h4>IAP Guide</h4>
+                  <div class="list-group">
+                    <a href="iap_back-g.html" class="list-group-item">Background Information</a>
+                    <a href="iap.html" class="list-group-item">Guidelines</a>
+                    <a href="iap_log.html" class="list-group-item">Research Log</a>
+                  </div>
+                </div>
+              </div>
+              <div class="col-md-3 col-sm-6">
+                <div class="footer-list-wiget">
+                  <h4>ITS Search</h4>
+                  <div class="list-group">
+					<a href="its_back-g.html" class="list-group-item nav-link">Background Information</a>
+                    <a href="its_s.html" class="list-group-item">Search Tool</a>
+                    <a href="its_log.html" class="list-group-item">Research Log</a>
+                  </div>
+                </div>
+              </div>
+              <div class="col-md-3 col-sm-6">
+                <div class="footer-list-wiget">
+                  <h4>More</h4>
+                  <div class="list-group">
+                    <a href="term_link.html" class="list-group-item">Term Library & Links</a>
+                    <a href="GIAPII_prop.html" class="list-group-item">GIAPII-K12 Proposal</a>
+                    <a href="GIAPII_paper.html" class="list-group-item">GIAPII-K12 Paper</a>
+                  </div>
+                </div>
+              </div>
+            </div>
+		   </div>
+          </div>
+          <hr class="footer-divider">
+          <div class="copyright-cta">
+            <p class="text-uppercase">All rights Reserved By <a href="https://themewagon.com/"><span class="span text-violat ">Themewagon</span></a></p>
+          </div>
+        </div>
+	  <div>
+		<p class="margin-bottom-1" style=text-align:center;>CS6460: Educational Technology (SU22)</p>
+		<p class="margin-bottom-1" style=text-align:center;>Thomas Bartels Pizzone</p>
+        <p class="margin-top-1" style=text-align:center;><span class="span text-center-drkgy">Guidelines for Individualized Academic Curriculum and ITS Implementation for K-12 Students: a Resource Guide (GIAPII-K12)</span></p>
+      </div>
+      <div class="footer-end-line" style="background:url(images/pexels-pixabay-268976.jpg)"></div>
+    </footer>
+	
+    <div id="scroll-top-div" class="scroll-top-div">
+      <div class="scroll-top-icon-container">
+        <i class="ion-ios-arrow-thin-up"></i>
+      </div>
+    </div>
+    <!-- jQuery first, then Tether, then Bootstrap JS. -->
+    <script src="js/jquery.min.js"></script>
+    <script src="js/bootstrap.min.js"></script>
+    <script src="js/owl.carousel.min.js"></script>
+    <script src="js/script.js"></script>
+  </body>
+</html>

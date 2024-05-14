@@ -1,0 +1,56 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		<style>
+			ol {
+			  counter-reset: item;
+			}
+			ol li {
+			  display: block;
+			}
+			ol li:before {
+			  content: counters(item, ".") " ) ";
+			  counter-increment: item;
+			}
+		</style>
+	</head>
+	<body>
+		<!-- 
+			In this example you shouldn't really use <ol> while nesting a <table>, but
+			I'm not really going to try to demonstrate how to properly do it.
+			Because the browser will normally render it the same way as long as you have
+			Your tags correctly closed off.
+		-->
+		<ol>
+			<table>
+				<tr>
+					<th>Section</th>
+					<th>Responsible Party</th>
+					<th>Additional Information</th>
+				</tr>
+				<tr>
+					<td>
+						<li>
+							Identify the stakeholders...
+							<ol>
+								<li>Sub-bullet</li>
+								<li>Second Sub-Bullet</li>
+							</ol>
+						</li>
+					</td>
+				</tr>
+				<tr>
+					<td>
+						<li>
+							Identify the stakeholders...
+							<ol>
+								<li>Sub-bullet</li>
+								<li>Second Sub-Bullet</li>
+							</ol>
+						</li>
+					</td>
+				</tr>
+			</table>
+		</ol>
+	</body>
+</html>

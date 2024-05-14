@@ -1,0 +1,157 @@
+Seq_No,School_Webpage,School_Name,School_type,Domain,Grade_Min,Grade_Max,Solution_or_School,solution_type
+1,https://www.carnegielearning.com/solutions/math/middle-school-math-solution/,Carnegie Learning,middle,Math,6,8,MATHia,ITS
+2,https://www.carnegielearning.com/solutions/math/high-school-math-solution/,Carnegie Learning,high,Math,9,12,MATHia,ITS
+3,https://discover.carnegielearning.com/MATHiaFlex.html,Carnegie Learning,middle,Math,6,8,MATHiaFlex,ITS
+4,https://discover.carnegielearning.com/MATHiaFlex.html,Carnegie Learning,high,Math,9,12,MATHiaFlex,ITS
+5,https://www.dreambox.com/k-8-math-lessons,DreamBox,elementary,Math,K,5,DreamBox,ITS
+6,https://www.dreambox.com/k-8-math-lessons,DreamBox,middle,Math,6,8,DreamBox,ITS
+7,https://www.squigglepark.com/,Squiggle Park,elementary,Reading,K,2,DreamBox,ITS
+8,https://www.readingplus.com/,Reading Plus,elementary,Reading,3,5,InSight,ALP
+9,https://www.readingplus.com/,Reading Plus,middle,Reading,6,8,InSight,ALP
+10,https://www.readingplus.com/,Reading Plus,high,Reading,9,12,InSight,ALP
+11,https://new.assistments.org/,ASSISTments,elementary,Math,1,5,ASSISTments,ITS
+12,https://new.assistments.org/,ASSISTments,middle,Math,6,8,ASSISTments,ITS
+13,https://new.assistments.org/,ASSISTments,high,Math,9,12,ASSISTments,ITS
+14,https://www.ixl.com/math,IXL,PreK,Math,PreK,PreK,IXL,ITS
+15,https://www.ixl.com/math,IXL,elementary,Math,K,5,IXL,ITS
+16,https://www.ixl.com/math,IXL,middle,Math,6,8,IXL,ITS
+17,https://www.ixl.com/math,IXL,high,Math,9,12,IXL,ITS
+18,https://www.ixl.com/science,IXL,elementary,Science,K,5,IXL,ITS
+19,https://www.ixl.com/science,IXL,middle,Science,6,8,IXL,ITS
+20,https://www.ixl.com/science,IXL,high,Science,9,12,IXL,ITS
+21,https://www.ixl.com/ela,IXL,PreK,Language Arts,PreK,PreK,IXL,ITS
+22,https://www.ixl.com/ela,IXL,elementary,Language Arts,K,5,IXL,ITS
+23,https://www.ixl.com/ela,IXL,middle,Language Arts,6,8,IXL,ITS
+24,https://www.ixl.com/ela,IXL,high,Language Arts,9,12,IXL,ITS
+25,https://www.ixl.com/spanish,IXL,elementary,Spanish,K,5,IXL,ITS
+26,https://www.ixl.com/spanish,IXL,middle,Spanish,6,8,IXL,ITS
+27,https://www.ixl.com/spanish,IXL,high,Spanish,12,12,IXL,ITS
+28,https://www.ixl.com/social-studies,IXL,PreK,Social Studies,PreK,PreK,IXL,ITS
+29,https://www.ixl.com/social-studies,IXL,elementary,Social Studies,K,5,IXL,ITS
+30,https://www.ixl.com/social-studies,IXL,middle,Social Studies,6,8,IXL,ITS
+31,https://www.ixl.com/social-studies,IXL,high,Social Studies,9,12,IXL,ITS
+32,https://www.soapboxlabs.com/early-literacy/,SoapBox,,Reading,,,SoapBox,ITS
+33,https://www.apexlearning.com/catalog,Apex Learning,middle,Math,6,8,Apex Learning,ITS
+34,https://www.apexlearning.com/catalog,Apex Learning,high,Math,6,12,Apex Learning,ITS
+35,https://www.apexlearning.com/catalog,Apex Learning,middle,Science,6,8,Apex Learning,ITS
+36,https://www.apexlearning.com/catalog,Apex Learning,high,Science,6,12,Apex Learning,ITS
+37,https://www.apexlearning.com/catalog,Apex Learning,middle,English,6,8,Apex Learning,ITS
+38,https://www.apexlearning.com/catalog,Apex Learning,high,English,6,12,Apex Learning,ITS
+39,https://www.apexlearning.com/catalog,Apex Learning,middle,Social Studies,6,8,Apex Learning,ITS
+40,https://www.apexlearning.com/catalog,Apex Learning,high,Social Studies,6,12,Apex Learning,ITS
+41,https://www.apexlearning.com/catalog,Apex Learning,middle,Spanish,6,8,Apex Learning,ITS
+42,https://www.apexlearning.com/catalog,Apex Learning,high,Spanish,6,12,Apex Learning,ITS
+43,https://www.apexlearning.com/catalog,Apex Learning,middle,German,6,8,Apex Learning,ITS
+44,https://www.apexlearning.com/catalog,Apex Learning,high,German,6,12,Apex Learning,ITS
+45,https://www.apexlearning.com/catalog,Apex Learning,middle,Latin,6,8,Apex Learning,ITS
+46,https://www.apexlearning.com/catalog,Apex Learning,high,Latin,6,12,Apex Learning,ITS
+47,https://www.apexlearning.com/catalog,Apex Learning,middle,Chinese,6,8,Apex Learning,ITS
+48,https://www.apexlearning.com/catalog,Apex Learning,high,Chinese,6,12,Apex Learning,ITS
+49,https://www.apexlearning.com/catalog,Apex Learning,middle,French,6,8,Apex Learning,ITS
+50,https://www.apexlearning.com/catalog,Apex Learning,high,French,6,12,Apex Learning,ITS
+51,https://www.knewton.com/courses/,Knewton Adaptive Learning,high,Math,9,12,Alta,ITS
+52,https://www.mheducation.com/prek-12/program/microsites/MKTSP-GAB02M0/math.html,McGraw-Hill Education,elementary,Math,3,5,ALEKS,ITS
+53,https://www.mheducation.com/prek-12/program/microsites/MKTSP-GAB02M0/math.html,McGraw-Hill Education,middle,Math,3,8,ALEKS,ITS
+54,https://www.mheducation.com/prek-12/program/microsites/MKTSP-GAB02M0/math.html,McGraw-Hill Education,high,Math,3,12,ALEKS,ITS
+55,https://www.mheducation.com/prek-12/program/microsites/MKTSP-GAB02M0/math.html,McGraw-Hill Education,high,Chemistry,3,12,ALEKS,ITS
+56,https://www.mheducation.com/prek-12/program/microsites/MKTSP-RMV20M01.html,McGraw-Hill Education,elementary,Math,3,5,Rise,ALP
+57,https://www.mheducation.com/prek-12/program/microsites/MKTSP-RMV20M01.html,McGraw-Hill Education,middle,Math,3,8,Rise,ALP
+58,https://www.mheducation.com/prek-12/program/microsites/MKTSP-RMV20M01.html,McGraw-Hill Education,elementary,ELA,3,5,Rise,ALP
+59,https://www.mheducation.com/prek-12/program/microsites/MKTSP-RMV20M01.html,McGraw-Hill Education,middle,ELA,3,8,Rise,ALP
+60,https://www.mheducation.com/prek-12/explore/redbird/language-arts-writing.html,McGraw-Hill Education,elementary,ELA & Writing,3,5,Redbird,ALP
+61,https://www.mheducation.com/prek-12/explore/redbird/language-arts-writing.html,McGraw-Hill Education,middle,ELA & Writing,3,8,Redbird,ALP
+62,https://www.mheducation.com/prek-12/explore/redbird/redbird-mathematics.html,McGraw-Hill Education,elementary,Math,3,5,Redbird,ALP
+63,https://www.mheducation.com/prek-12/explore/redbird/redbird-mathematics.html,McGraw-Hill Education,middle,Math,3,8,Redbird,ALP
+64,https://www.graphogame.com/index.html,GraphoGame,PreK,Reading,PreK,K,GraphoGame,ITS
+65,https://www.graphogame.com/index.html,GraphoGame,elementary,Reading,PreK,5,GraphoGame,ITS
+66,https://www.italk2learn.com/italk2learn-platform/,iTalk2Learn,PreK,Math,PreK,5,iTalk2Learn,ITS
+67,https://www.italk2learn.com/italk2learn-platform/,iTalk2Learn,elementary,Math,PreK,5,iTalk2Learn,ITS
+68,https://www.scootpad.com/platform/curriculum,Scootpad / Mosaic AAL,elementary,Math,K,5,Mosaic Adaptive Academic Learning,ITS
+69,https://www.scootpad.com/platform/curriculum,Scootpad / Mosaic AAL,middle,Math,6,8,Mosaic Adaptive Academic Learning,ITS
+70,https://www.scootpad.com/platform/curriculum,Scootpad / Mosaic AAL,elementary,ELA,K,5,Mosaic Adaptive Academic Learning,ITS
+71,https://www.scootpad.com/platform/curriculum,Scootpad / Mosaic AAL,middle,ELA,6,8,Mosaic Adaptive Academic Learning,ITS
+72,https://www.d2l.com/k-12/,Design2Learn,elementary,Math,K,5,Design2Learn,ALP
+73,https://www.d2l.com/k-12/,Design2Learn,middle,Math,6,8,Design2Learn,ALP
+74,https://www.d2l.com/k-12/,Design2Learn,high,Math,K,12,Design2Learn,ALP
+75,https://www.achieve3000.com/products/mathematics/,Achieve3000,elementary,Math,3,5,Active3000 Math,ITS
+76,https://www.achieve3000.com/products/mathematics/,Achieve3000,middle,Math,3,8,Active3000 Math,ITS
+77,https://www.achieve3000.com/products/mathematics/,Achieve3000,high,Math,3,12,Active3000 Math,ITS
+78,https://www.achieve3000.com/products/actively-learn/,Achieve3000,elementary,ELA / Social Studies / Science,3,5,Actively Learn,ITS
+79,https://www.achieve3000.com/products/actively-learn/,Achieve3000,middle,ELA / Social Studies / Science,3,8,Actively Learn,ITS
+80,https://www.achieve3000.com/products/actively-learn/,Achieve3000,high,ELA / Social Studies / Science,3,12,Actively Learn,ITS
+81,https://www.achieve3000.com/products/achieve3000-literacy/,Achieve3000,elementary,Literacy,3,5,Active3000 Literacy,ITS
+82,https://www.achieve3000.com/products/achieve3000-literacy/,Achieve3000,middle,Literacy,3,8,Active3000 Literacy,ITS
+83,https://www.achieve3000.com/products/achieve3000-literacy/,Achieve3000,high,Literacy,3,12,Active3000 Literacy,ITS
+84,https://www.achieve3000.com/products/smarty-ants/,Achieve3000,PreK,Reading,PreK,12,Smarty Ants,ITS
+85,https://www.achieve3000.com/products/smarty-ants/,Achieve3000,elementary,Reading,3,5,Smarty Ants,ITS
+86,https://www.curriculumadvantage.com/mymtss,Classworks,elementary,"ELA, Reading, Math",K,5,MyMTSS,ALP
+87,https://www.curriculumadvantage.com/mymtss,Classworks,middle,"ELA, Reading, Math",6,8,MyMTSS,ALP
+88,https://www.edgenuity.com/products-and-services/personalized-learning-solutions/,Edgenuity,elementary,Reading,K,5,MyPath,ALP
+89,https://www.edgenuity.com/products-and-services/personalized-learning-solutions/,Edgenuity,middle,Reading,6,8,MyPath,ALP
+90,https://www.edgenuity.com/products-and-services/personalized-learning-solutions/,Edgenuity,high,Reading,K,12,MyPath,ALP
+91,https://www.edgenuity.com/products-and-services/personalized-learning-solutions/,Edgenuity,elementary,Math,K,5,MyPath,ALP
+92,https://www.edgenuity.com/products-and-services/personalized-learning-solutions/,Edgenuity,middle,Math,6,8,MyPath,ALP
+93,https://www.edgenuity.com/products-and-services/personalized-learning-solutions/,Edgenuity,high,Math,K,12,MyPath,ALP
+94,https://www.imaginelearning.com/en/us/products/ela/reading,Imagine Learning,elementary,Reading,3,5,Imagine MyPath,ALP
+95,https://www.imaginelearning.com/en/us/products/ela/reading,Imagine Learning,middle,Reading,6,8,Imagine MyPath,ALP
+96,https://www.imaginelearning.com/en/us/products/math/math,Imagine Learning,elementary,Math,3,5,Imagine MyPath,ALP
+97,https://www.imaginelearning.com/en/us/products/math/math,Imagine Learning,middle,Math,6,8,Imagine MyPath,ALP
+98,https://www.imaginelearning.com/en/us/products/math/math,Imagine Learning,high,Math,3,8,Imagine MyPath,ALP
+99,https://www.imaginelearning.com/en/us/products/ela/el-education,Imagine Learning,elementary,ELA,3,5,Imagine MyPath,ALP
+100,https://www.imaginelearning.com/en/us/products/ela/el-education,Imagine Learning,middle,ELA,6,8,Imagine MyPath,ALP
+101,https://www.imaginelearning.com/en/us/products/spanish-language-arts,Imagine Learning,elementary,Spanish Language Arts and Literacy,3,5,Imagine MyPath,ALP
+102,https://www.imaginelearning.com/en/us/products/spanish-language-arts/espanol,Imagine Learning,elementary,Espanol,3,5,Imagine MyPath,ALP
+103,https://www.edmentum.com/products/exact-path,Edmentum,elementary,Math,K,5,Exact Path,ALP
+104,https://www.edmentum.com/products/exact-path,Edmentum,middle,Math,6,8,Exact Path,ALP
+105,https://www.edmentum.com/products/exact-path,Edmentum,high,Math,K,12,Exact Path,ALP
+106,https://www.edmentum.com/products/exact-path,Edmentum,elementary,Reading,K,5,Exact Path,ALP
+107,https://www.edmentum.com/products/exact-path,Edmentum,middle,Reading,6,8,Exact Path,ALP
+108,https://www.edmentum.com/products/exact-path,Edmentum,high,Reading,K,12,Exact Path,ALP
+109,https://www.edmentum.com/products/exact-path,Edmentum,elementary,ELA,K,5,Exact Path,ALP
+110,https://www.edmentum.com/products/exact-path,Edmentum,middle,ELA,6,8,Exact Path,ALP
+111,https://www.edmentum.com/products/exact-path,Edmentum,high,ELA,K,12,Exact Path,ALP
+112,https://progresslearning.com/our-products/liftoff-adaptive-intervention-2-8/,Progress Learning,elementary,ELA,2,5,Liftoff,ALP
+113,https://progresslearning.com/our-products/liftoff-adaptive-intervention-2-8/,Progress Learning,middle,ELA,6,8,Liftoff,ALP
+114,https://progresslearning.com/our-products/liftoff-adaptive-intervention-2-8/,Progress Learning,elementary,Math,2,5,Liftoff,ALP
+115,https://progresslearning.com/our-products/liftoff-adaptive-intervention-2-8/,Progress Learning,middle,Math,6,8,Liftoff,ALP
+116,https://progresslearning.com/our-products/liftoff-adaptive-intervention-2-8/,Progress Learning,elementary,Social Studies,2,5,Liftoff,ALP
+117,https://progresslearning.com/our-products/liftoff-adaptive-intervention-2-8/,Progress Learning,middle,Social Studies,6,8,Liftoff,ALP
+118,https://progresslearning.com/our-products/liftoff-adaptive-intervention-2-8/,Progress Learning,elementary,Science,2,5,Liftoff,ALP
+119,https://progresslearning.com/our-products/liftoff-adaptive-intervention-2-8/,Progress Learning,middle,Science,6,8,Liftoff,ALP
+120,https://www.esparklearning.com/activities,eSparks Learning,elementary,ELA,K,5,eSpark,ALP
+121,https://www.esparklearning.com/activities,eSparks Learning,middle,ELA,6,8,eSpark,ALP
+122,https://www.esparklearning.com/activities,eSparks Learning,elementary,Math,K,5,eSpark,ALP
+123,https://www.esparklearning.com/activities,eSparks Learning,middle,Math,6,8,eSpark,ALP
+124,https://www.lexialearning.com/core5,Lexia,PreK,Reading,PreK,PreK,Core5,ALP
+125,https://www.lexialearning.com/core5,Lexia,elementary,Reading,PreK,5,Core5,ALP
+126,https://www.lexialearning.com/powerup,Lexia,middle,Reading,6,8,PowerUp Literacy,ALP
+127,https://www.lexialearning.com/powerup,Lexia,high,Reading,9,12,PowerUp Literacy,ALP
+128,https://www.lexialearning.com/lexia-english,Lexia,elementary,English Development,K,5,English Language Development™,ALP
+129,https://www.lexialearning.com/lexia-english,Lexia,middle,English Development,6,6,English Language Development™,ALP
+130,https://www.lexialearning.com/rapid,Lexia,elementary,Reading/Language,K,5,Rapid Assessment,ALP
+131,https://www.lexialearning.com/rapid,Lexia,middle,Reading/Language,6,8,Rapid Assessment,ALP
+132,https://www.lexialearning.com/rapid,Lexia,high,Reading/Language,9,12,Rapid Assessment,ALP
+133,https://www.mobymax.com/curriculum/social-studies,MobyMax,elementary,Social Studies,K,5,ToughCurriculum,ALP
+134,https://www.mobymax.com/curriculum/social-studies,MobyMax,middle,Social Studies,6,8,ToughCurriculum,ALP
+135,https://www.mobymax.com/curriculum/science,MobyMax,elementary,Science,K,5,ToughCurriculum,ALP
+136,https://www.mobymax.com/curriculum/science,MobyMax,middle,Science,6,8,ToughCurriculum,ALP
+137,https://www.mobymax.com/curriculum/math,MobyMax,elementary,Math,K,5,ToughCurriculum,ALP
+138,https://www.mobymax.com/curriculum/math,MobyMax,middle,Math,6,8,ToughCurriculum,ALP
+139,https://www.mobymax.com/curriculum/early-words,MobyMax,elementary,Reading,K,5,ToughCurriculum,ALP
+140,https://www.mobymax.com/curriculum/early-words,MobyMax,middle,Reading,6,8,ToughCurriculum,ALP
+141,https://www.mobymax.com/curriculum/foundational-reading,MobyMax,elementary,Reading,K,5,ToughCurriculum,ALP
+142,https://www.mobymax.com/curriculum/foundational-reading,MobyMax,middle,Reading,6,8,ToughCurriculum,ALP
+143,https://www.mobymax.com/curriculum/language-grammar,MobyMax,elementary,ELA,K,5,ToughCurriculum,ALP
+144,https://www.mobymax.com/curriculum/language-grammar,MobyMax,middle,ELA,6,8,ToughCurriculum,ALP
+145,https://www.scilearn.com/english-language-learners/,Carnegie Learning,elementary,Reading/ELA,K,5,FastForWord,ITS
+146,https://www.scilearn.com/english-language-learners/,Carnegie Learning,middle,Reading/ELA,6,8,FastForWord,ITS
+147,https://www.scilearn.com/english-language-learners/,Carnegie Learning,high,Reading/ELA,K,12,FastForWord,ITS
+148,https://www.scilearn.com/reading-assistant-plus/,Carnegie Learning,elementary,Reading,K,5,FastForWord-Reading Assistant Plus,ITS
+149,https://www.scilearn.com/reading-assistant-plus/,Carnegie Learning,middle,Reading,6,8,FastForWord-Reading Assistant Plus,ITS
+150,https://www.scilearn.com/reading-assistant-plus/,Carnegie Learning,high,Reading,K,12,FastForWord-Reading Assistant Plus,ITS
+151,scilearn.com/secondary-program/,Carnegie Learning,middle,Reading,6,8,FastForWord,ITS
+152,scilearn.com/secondary-program/,Carnegie Learning,high,Reading,6,12,FastForWord,ITS
+153,https://www.scilearn.com/elementary-program/,Carnegie Learning,elementary,Reading,K,5,FastForWord,ITS
+154,https://www.thinkcerca.com/solutions,ThinkCERCA,elementary,Reading/Writing/ELA,3,5,CERCA,ALP
+155,https://www.thinkcerca.com/solutions,ThinkCERCA,middle,Reading/Writing/ELA,3,8,CERCA,ALP
+156,https://www.thinkcerca.com/solutions,ThinkCERCA,high,Reading/Writing/ELA,3,12,CERCA,ALP

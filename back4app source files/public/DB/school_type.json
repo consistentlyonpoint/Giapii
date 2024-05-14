@@ -1,0 +1,72 @@
+[
+    {
+        "grade": "PreK",
+        "school_type": "Pre-Kindegarten",
+        "seq_no": 1
+    },
+    {
+        "grade": "K",
+        "school_type": "Elementary School",
+        "seq_no": 2
+    },
+    {
+        "grade": "1",
+        "school_type": "Elementary School",
+        "seq_no": 3
+    },
+    {
+        "grade": "2",
+        "school_type": "Elementary School",
+        "seq_no": 4
+    },
+    {
+        "grade": "3",
+        "school_type": "Elementary School",
+        "seq_no": 5
+    },
+    {
+        "grade": "4",
+        "school_type": "Elementary School",
+        "seq_no": 6
+    },
+    {
+        "grade": "5",
+        "school_type": "Elementary School",
+        "seq_no": 7
+    },
+    {
+        "grade": "6",
+        "school_type": "Middle School",
+        "seq_no": 8
+    },
+    {
+        "grade": "7",
+        "school_type": "Middle School",
+        "seq_no": 9
+    },
+    {
+        "grade": "8",
+        "school_type": "Middle School",
+        "seq_no": 10
+    },
+    {
+        "grade": "9",
+        "school_type": "High School",
+        "seq_no": 11
+    },
+    {
+        "grade": "10",
+        "school_type": "High School",
+        "seq_no": 12
+    },
+    {
+        "grade": "11",
+        "school_type": "High School",
+        "seq_no": 13
+    },
+    {
+        "grade": "12",
+        "school_type": "High School",
+        "seq_no": 14
+    }
+]

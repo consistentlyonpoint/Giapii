@@ -1,0 +1,212 @@
+[
+    {
+        "school_name": "Carnegie Learning",
+        "solution": "MATHia",
+        "solution_no": 1,
+        "solution_type": "ITS"
+    },
+    {
+        "school_name": "Carnegie Learning",
+        "solution": "MATHiaFlex",
+        "solution_no": 2,
+        "solution_type": "ITS"
+    },
+    {
+        "school_name": "DreamBox",
+        "solution": "DreamBox",
+        "solution_no": 3,
+        "solution_type": "ITS"
+    },
+    {
+        "school_name": "Squiggle Park",
+        "solution": "DreamBox",
+        "solution_no": 4,
+        "solution_type": "ITS"
+    },
+    {
+        "school_name": "Reading Plus",
+        "solution": "InSight",
+        "solution_no": 5,
+        "solution_type": "ALP"
+    },
+    {
+        "school_name": "ASSISTments",
+        "solution": "ASSISTments",
+        "solution_no": 6,
+        "solution_type": "ITS"
+    },
+    {
+        "school_name": "IXL",
+        "solution": "IXL",
+        "solution_no": 7,
+        "solution_type": "ITS"
+    },
+    {
+        "school_name": "SoapBox",
+        "solution": "SoapBox",
+        "solution_no": 8,
+        "solution_type": "ITS"
+    },
+    {
+        "school_name": "Apex Learning",
+        "solution": "Apex Learning",
+        "solution_no": 9,
+        "solution_type": "ITS"
+    },
+    {
+        "school_name": "Knewton Adaptive Learning",
+        "solution": "Alta",
+        "solution_no": 10,
+        "solution_type": "ITS"
+    },
+    {
+        "school_name": "McGraw-Hill Education",
+        "solution": "ALEKS",
+        "solution_no": 11,
+        "solution_type": "ITS"
+    },
+    {
+        "school_name": "McGraw-Hill Education",
+        "solution": "Rise",
+        "solution_no": 12,
+        "solution_type": "ALP"
+    },
+    {
+        "school_name": "McGraw-Hill Education",
+        "solution": "Redbird",
+        "solution_no": 13,
+        "solution_type": "ALP"
+    },
+    {
+        "school_name": "GraphoGame",
+        "solution": "GraphoGame",
+        "solution_no": 14,
+        "solution_type": "ITS"
+    },
+    {
+        "school_name": "iTalk2Learn",
+        "solution": "iTalk2Learn",
+        "solution_no": 15,
+        "solution_type": "ITS"
+    },
+    {
+        "school_name": "Scootpad / Mosaic AAL",
+        "solution": "Mosaic Adaptive Academic Learning",
+        "solution_no": 16,
+        "solution_type": "ITS"
+    },
+    {
+        "school_name": "Design2Learn",
+        "solution": "Design2Learn",
+        "solution_no": 17,
+        "solution_type": "ALP"
+    },
+    {
+        "school_name": "Achieve3000",
+        "solution": "Active3000 Math",
+        "solution_no": 18,
+        "solution_type": "ITS"
+    },
+    {
+        "school_name": "Achieve3000",
+        "solution": "Actively Learn",
+        "solution_no": 19,
+        "solution_type": "ITS"
+    },
+    {
+        "school_name": "Achieve3000",
+        "solution": "Active3000 Literacy",
+        "solution_no": 20,
+        "solution_type": "ITS"
+    },
+    {
+        "school_name": "Achieve3000",
+        "solution": "Smarty Ants",
+        "solution_no": 21,
+        "solution_type": "ITS"
+    },
+    {
+        "school_name": "Classworks",
+        "solution": "MyMTSS",
+        "solution_no": 22,
+        "solution_type": "ALP"
+    },
+    {
+        "school_name": "Edgenuity",
+        "solution": "MyPath",
+        "solution_no": 23,
+        "solution_type": "ALP"
+    },
+    {
+        "school_name": "Imagine Learning",
+        "solution": "Imagine MyPath",
+        "solution_no": 24,
+        "solution_type": "ALP"
+    },
+    {
+        "school_name": "Edmentum",
+        "solution": "Exact Path",
+        "solution_no": 25,
+        "solution_type": "ALP"
+    },
+    {
+        "school_name": "Progress Learning",
+        "solution": "Liftoff",
+        "solution_no": 26,
+        "solution_type": "ALP"
+    },
+    {
+        "school_name": "eSparks Learning",
+        "solution": "eSpark",
+        "solution_no": 27,
+        "solution_type": "ALP"
+    },
+    {
+        "school_name": "Lexia",
+        "solution": "Core5",
+        "solution_no": 28,
+        "solution_type": "ALP"
+    },
+    {
+        "school_name": "Lexia",
+        "solution": "PowerUp Literacy",
+        "solution_no": 29,
+        "solution_type": "ALP"
+    },
+    {
+        "school_name": "Lexia",
+        "solution": "English Language Development™",
+        "solution_no": 30,
+        "solution_type": "ALP"
+    },
+    {
+        "school_name": "Lexia",
+        "solution": "Rapid Assessment",
+        "solution_no": 31,
+        "solution_type": "ALP"
+    },
+    {
+        "school_name": "MobyMax",
+        "solution": "ToughCurriculum",
+        "solution_no": 32,
+        "solution_type": "ALP"
+    },
+    {
+        "school_name": "Carnegie Learning",
+        "solution": "FastForWord",
+        "solution_no": 33,
+        "solution_type": "ITS"
+    },
+    {
+        "school_name": "Carnegie Learning",
+        "solution": "FastForWord-Reading Assistant Plus",
+        "solution_no": 34,
+        "solution_type": "ITS"
+    },
+    {
+        "school_name": "ThinkCERCA",
+        "solution": "CERCA",
+        "solution_no": 35,
+        "solution_type": "ALP"
+    }
+]

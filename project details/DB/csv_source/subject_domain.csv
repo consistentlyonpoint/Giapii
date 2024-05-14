@@ -1,0 +1,23 @@
+Seq_No,Course,Domain
+00001,Math,Math
+00002,Algebra 1,Math
+00003,Geometry,Math
+00004,Algebra 2,Math
+00005,Trigonometry,Math
+00006,Precalculus,Math
+00007,Calculus,Math
+00008,Language Arts,ELA
+00009,Reading,ELA
+00010,Reading,English
+00011,Reading,Reading
+00012,Language Arts,English
+00013,Science,Science
+00014,Earth Science,Science
+00015,Biology,Science
+00016,Chemistry,Science
+00017,Physics,Science
+00018,Social Studies,History
+00019,World History,History
+00020,European History,History
+00021,American History I,History
+00022,American History II,History

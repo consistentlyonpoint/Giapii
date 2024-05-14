@@ -1,0 +1,10 @@
+{
+  "applications": {
+    "CS6460-App_v4": {
+      "applicationId": "mKBbm0wXkcNolPQw1wkssxgCttS0gnjeThdCdXEt"
+    },
+    "_default": {
+      "link": "CS6460-App_v4"
+    }
+  }
+}

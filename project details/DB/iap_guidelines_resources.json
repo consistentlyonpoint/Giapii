@@ -1,0 +1,44 @@
+[
+    {
+        "description": "3.1). Refer to resource from HSLDA (Home School Legal Defense Association) for state-by-state detail of K-12 education requirements",
+        "reference": "https://hslda.org/legal",
+        "section": 3,
+        "seq_no": 1,
+        "subsection": 3.1
+    },
+    {
+        "description": "3.2). NY State Reference: Procedures to assist in meeting Education Law, sections: 3204(2) + 3210(2)(d) + 3212(2) + 3205",
+        "reference": "http://www.nysed.gov/curriculum-instruction/10010-home-instruction",
+        "section": 3,
+        "seq_no": 2,
+        "subsection": 3.2
+    },
+    {
+        "description": "4). Construct a statement of the student's goals for the year. Include a timeline for evaluation of progress toward goal and evaluation methodology.",
+        "reference": "https://edge.sagepub.com/gargiulo6e/student-resources/sample-individualized-education-program-iep",
+        "section": 4,
+        "seq_no": 3,
+        "subsection": 0
+    },
+    {
+        "description": "4). Construct a statement of the student's goals for the year. Include a timeline for evaluation of progress toward goal and evaluation methodology.",
+        "reference": "https://instrc.indiana.edu/resource-collections/sample-ieps.html",
+        "section": 4,
+        "seq_no": 4,
+        "subsection": 0
+    },
+    {
+        "description": "5). Construct a statement with the scope and sequence of the education and related services and supplementary aids and services, based on peer-reviewed research to the extent practicable, to be provided to the student.",
+        "reference": "https://www.worldbook.com/typical-course-of-study.aspx",
+        "section": 5,
+        "seq_no": 5,
+        "subsection": 0
+    },
+    {
+        "description": "5.1). HSLDA provides a support page to understand what \"scope\" and \"sequence\" includes.",
+        "reference": "https://hslda.org/post/scope-and-sequence",
+        "section": 5,
+        "seq_no": 6,
+        "subsection": 5.1
+    }
+]

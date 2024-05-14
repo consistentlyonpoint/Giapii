@@ -1,0 +1,8 @@
+Link for Georgia Tech Students
+This is to track students answering surveys so that they can (potentially) receive participation credit for classes.
+This link will require someone to login.
+http://peersurvey.cc.gatech.edu/gt/35e93d1da6824a56ae0d34eef63ba6b3
+
+Link for Non Outside Users
+This link will not require login. Only give this to people outside of Georgia Tech.
+http://peersurvey.cc.gatech.edu/s/35e93d1da6824a56ae0d34eef63ba6b3

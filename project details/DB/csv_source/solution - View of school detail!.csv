@@ -1,0 +1,36 @@
+Seq_No,ITS-ILS-ALS_Name,School_Name,Solution_Type,Curriculum_Type
+1,MATHia,Carnegie Learning,ITS,Core Curriculum
+2,MATHiaFlex,Carnegie Learning,ITS,Complementary to Core Curriculum
+3,DreamBox,DreamBox,ITS,Complementary to Core Curriculum
+4,DreamBox,Squiggle Park,ITS,Complementary to Core Curriculum
+5,InSight,Reading Plus,ALP,Core Curriculum
+6,ASSISTments,ASSISTments,ITS,Core Curriculum
+7,IXL,IXL,ITS,Core Curriculum
+8,SoapBox,SoapBox,ITS,Complementary to Core Curriculum
+9,Apex Learning,Apex Learning,ITS,Core Curriculum
+10,Alta,Knewton Adaptive Learning,ITS,Complementary to Core Curriculum
+11,ALEKS,McGraw-Hill Education,ITS,Complementary to Core Curriculum
+12,Rise,McGraw-Hill Education,ALP,Complementary to Core Curriculum
+13,Redbird,McGraw-Hill Education,ALP,Complementary to Core Curriculum
+14,GraphoGame,GraphoGame,ITS,Complementary to Core Curriculum
+15,iTalk2Learn,iTalk2Learn,ITS,Complementary to Core Curriculum
+16,Mosaic Adaptive Academic Learning,Scootpad / Mosaic AAL,ITS,Complementary to Core Curriculum
+17,Design2Learn,Design2Learn,FALSE,Complementary to Core Curriculum
+18,Active3000 Math,Achieve3000,ITS,Core Curriculum
+19,Actively Learn,Achieve3000,ITS,Complementary to Core Curriculum
+20,Active3000 Literacy,Achieve3000,ITS,Complementary to Core Curriculum
+21,Smarty Ants,Achieve3000,ITS,Core Curriculum
+22,MyMTSS,Classworks,ALP,Core Curriculum
+23,MyPath,Edgenuity,ALP,Complementary to Core Curriculum
+24,Imagine MyPath,Imagine Learning,ALP,Complementary to Core Curriculum
+25,Exact Path,Edmentum,ALP,Core Curriculum
+26,Liftoff,Progress Learning,ALP,Complementary to Core Curriculum
+27,eSpark,eSparks Learning,ALP,Core Curriculum
+28,Core5,Lexia,ALP,Complementary to Core Curriculum
+29,PowerUp Literacy,Lexia,ALP,Complementary to Core Curriculum
+30,English Language Development™,Lexia,ALP,Complementary to Core Curriculum
+31,Rapid Assessment,Lexia,ALP,Complementary to Core Curriculum
+32,ToughCurriculum,MobyMax,ALP,Complementary to Core Curriculum
+33,FastForWord,Carnegie Learning,ITS,Core Curriculum
+34,FastForWord-Reading Assistant Plus,Carnegie Learning,ITS,Core Curriculum
+35,CERCA,ThinkCERCA,ALP,Complementary to Core Curriculum
