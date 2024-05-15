@@ -28,9 +28,7 @@ students to provide: (1) a background on IEP history and usage;
 implemented; (3) a repository and search tool for commercially
 available ITS.
 
-[![GIAPPI Walkthrough](https://github.com/consistentlyonpoint/Giapii/assets/108585008/1be460a6-e991-441a-b417-534193389935)](https://www.youtube.com/watch?v=ZdUAIpqWadE)
-
-
+[!<img src="project details/archived/Giappi_YouTube_Walkthrough2.png" width="350" alt="GIAPPI Walkthrough">](https://www.youtube.com/watch?v=ZdUAIpqWadE)
 
 ## A Guide for Planning an Individualized Academic Curriculum.
 * This resource provides a set of guidelines to individualize a student’s education plan.
