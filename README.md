@@ -3,7 +3,7 @@
 
 ## Guidelines for Individualized Academic Planning and ITS Implementation for K-12 Students: a Resource Guide
 
-project site: https://giappi-k12.b4a.app/
+[GIAPPI Project Site](https://giappi-k12.b4a.app)
 
 ### Abstract
 Intelligent Tutoring Systems (ITSs) and Individualized
@@ -29,8 +29,3 @@ implemented; (3) a repository and search tool for commercially
 available ITS.
 
 [!<img src="project details/archived/Giappi_YouTube_Walkthrough2.png" width="350" alt="GIAPPI Walkthrough">](https://www.youtube.com/watch?v=ZdUAIpqWadE)
-
-## A Guide for Planning an Individualized Academic Curriculum.
-* This resource provides a set of guidelines to individualize a student’s education plan.
-* These guidelines will facilitate an academic curriculum appropriate to the student’s unique needs. 
-* Additionally, the guidelines will foster instructors (private tutors, parents, teachers) and students to set periodic and measurable goals in both education and personal growth.
