@@ -28,4 +28,4 @@ students to provide: (1) a background on IEP history and usage;
 implemented; (3) a repository and search tool for commercially
 available ITS.
 
-[!<img src="project details/archived/Giappi_YouTube_Walkthrough2.png" width="350" alt="GIAPPI Walkthrough">](https://www.youtube.com/watch?v=ZdUAIpqWadE)
+[<img src="project details/archived/Giappi_YouTube_Walkthrough2.png" width="350" alt="GIAPPI Walkthrough">](https://www.youtube.com/watch?v=ZdUAIpqWadE)
